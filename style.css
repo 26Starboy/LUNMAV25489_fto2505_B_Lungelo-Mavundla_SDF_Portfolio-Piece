@@ -4,7 +4,7 @@ body {
   font-family: 'Poppins', sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #a8a1a163; 
+  background-color: #9896965f; 
 }
 
 .container {
@@ -22,7 +22,7 @@ body {
 .tools-section {
   background-color: #ffffff;
   border-radius: 20px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.299);
   padding: 20px;
   margin-bottom: 30px;
 }
@@ -171,7 +171,7 @@ body {
   top: 10px;
   right: 10px;
   font-size: 18px;
-  color: #e63946;
+  color: #f36e3aaa;
 }
 
 .project-card.highlight {
