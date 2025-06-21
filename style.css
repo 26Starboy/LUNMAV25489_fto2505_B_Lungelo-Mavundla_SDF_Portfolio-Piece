@@ -198,7 +198,7 @@ body {
   margin-bottom: 10px;
 }
 
-/* Education & Tools Row */
+/* Education & Tools Row */More actions
 .education-tools-row {
   display: flex;
   flex-wrap: wrap;
@@ -239,28 +239,6 @@ body {
 .highlight .edu-date,
 .highlight li {
   color: white;
-}
-
-/* Tools Section */
-.tools-section {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-}
-
-.tool-group-box {
-  background-color: #f9f9f9;
-  border-radius: 15px;
-  padding: 15px;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.05);
-}
-
-.tool-group-box h3 {
-  font-size: 18px;
-  font-weight: 600;
-  margin-bottom: 10px;
-  text-align: center;
 }
 
 .tool-group {
@@ -377,16 +355,6 @@ body {
 
 .exp-card ul li {
   margin-bottom: 6px;
-}
-
-.most-recent {
-  background-color: #e75e39;
-  color: #ffffff;
-  border-radius: 12px;
-  padding: 4px 14px;
-  font-size: 13px;
-  font-weight: 600;
-  align-self: flex-start;
 }
 
 /* Experience Section Wrapper */
@@ -564,6 +532,8 @@ body {
     font-size: 14px;
   }
 }
+
+
 
 
 
