@@ -448,7 +448,7 @@ body {
   text-decoration: underline;
 }
 
-/* Tablet & small desktops */
+/* Tablet & small desktops responsiveness */
 @media (max-width: 1024px) {
   .profile-row {
     flex-direction: column;
