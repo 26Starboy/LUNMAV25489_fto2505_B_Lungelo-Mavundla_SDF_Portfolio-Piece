@@ -448,8 +448,6 @@ body {
   text-decoration: underline;
 }
 
-/* Responsive layout tweaks */
-
 /* Tablet & small desktops */
 @media (max-width: 1024px) {
   .profile-row {
